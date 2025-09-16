@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+*.so
+.Python
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+
+# Environment variables
+.env
+*.key
+
+# Database
+*.db
+*.sqlite*
+
+# Data cache
+data/cache/
